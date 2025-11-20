@@ -500,7 +500,7 @@
 				popup_menu.reset_size()
 				popup_menu.popup()
 				[/codeblock]
-				Equals to:
+				Is equal to:
 				[codeblock]
 				popup_menu.position = get_screen_transform() * get_local_mouse_position()
 				popup_menu.reset_size()
