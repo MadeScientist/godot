@@ -86,7 +86,7 @@
 		<method name="get_travel" qualifiers="const">
 			<return type="Vector2" />
 			<description>
-				Returns the moving object's travel before collision.
+				Returns the moving object's travel after collision.
 			</description>
 		</method>
 	</methods>
